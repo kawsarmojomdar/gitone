@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 two is good
 changed
+=======
+ 2 two
+>>>>>>> main
